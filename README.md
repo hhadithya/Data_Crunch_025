@@ -33,17 +33,6 @@
 
 ---
 
-## 📥 Installation & Usage
-
-1. Install dependencies:  
-   `pip install -r requirements.txt`  
-2. Train region-specific models:  
-   `python train.py --groups [1-23]`  
-3. Generate forecasts:  
-   `python predict.py --date [YYYY-MM-DD]`
-
----
-
 ## 🌱 Agricultural Impact
 
 - Optimize protective cover deployment  
